@@ -10,11 +10,9 @@ There is a bulleted list that addresses the three key differences in weather bet
 
 <p align="center">
 <img src=https://github.com/smanowar/surfs_up/blob/main/visuals/june_temps_farenheit.PNG> 
+<img src=https://github.com/smanowar/surfs_up/blob/main/visuals/december_temps_farenheit.PNG>   
 </p>
 
-<p align="center">
-<img src=https://github.com/smanowar/surfs_up/blob/main/visuals/december_temps_farenheit.PNG> 
-</p>
 
 <br>
 

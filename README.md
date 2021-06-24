@@ -1,24 +1,27 @@
 # Surf's Up: A Climate Analysis of Hawaii
 
 ## Overview
-Explain the purpose of this analysis.
-The purpose of the analysis is well defined. (3 pt)
+In hopes of opening a surf shop in Oahu, Hawaii, we will analyze the weather trends to assess the sustainabiliy of the endevor. Using weather data obtained from verious weather stations we will use Jupyter Notebook to analyze temperatures for the months of June and December spanning from 2010 to 2017.
 
 ## Results:
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+After pulling the daily temperatures for June and December, summary statistics tables were created as seen below:
 
 <p align="center">
 <img src=https://github.com/smanowar/surfs_up/blob/main/visuals/june_temps_farenheit.PNG> 
-<img src=https://github.com/smanowar/surfs_up/blob/main/visuals/december_temps_farenheit.PNG>   
+<img src=https://github.com/smanowar/surfs_up/blob/main/visuals/december_temps_farenheit.PNG>  
+<br>
+Temps in Fahrenheit   
 </p>
 
-
 <br>
+Temperatures were then converted to Celcius for ease of analysis:
+<br><br>
 
 <p align="center">
 <img src=https://github.com/smanowar/surfs_up/blob/main/visuals/june_temps_celcius.PNG> 
 <img src=https://github.com/smanowar/surfs_up/blob/main/visuals/dec_temps_celcius.PNG> 
+<br>
+Temps in Celcius
 </p>
 
 

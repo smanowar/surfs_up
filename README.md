@@ -31,17 +31,23 @@ Calculations were based on 1700 recordings for June and 1517 recordings for Dece
 From the tables above we can see the following:
 
 The max temperature recorded is: 
-- 29.44°C (85°F) for June
-- 28.33°C (83°F) for December
+- 85°F (29.4°C) for June
+- 83°F (28.3°C) for December
 
-The min temperatur0e recorded is:
-- 17.78°C (64°F) for June
-- 13.33°C (69°F) for December
+The min temperature recorded is:
+- 64°F (17.8°C) for June
+- 69°F (13.3°C) for December
 
 The average temperatures are:
-- 
+- 74.9°F (23.9°C) for June
+- 71°F (21.7°C) for December
+
 ## Summary:
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+Based on the outcomes from the section above we can see that the temperature was within the range of 64°F and 85°F for June, and 69°F and 83°F for December.
 
+Because weather can vary dramatically it is very likley that our results contain outliers. Because of this we will base our analysis on the average temperatures and the standard deviation. The average temperature for June is 74.9°F with a standard deviation of 3.26, and 71°F for December with a standard deviation of 3.75. Converting to Celcius it is on average 23.9°C for June and 21.7°C for December. While on the cool side for beach weather it is the perfect temperature for surfing. 
 
+Additional queries that should be performed to see the likleyhood of the success of the surf shop are:
+
+- precipitation levels in Oahu as this will affect tourist levels
+- wind levels in Oahu as this will affect the surfing conditions

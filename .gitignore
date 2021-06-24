@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #adding celcius file
 SurfsUp_celcius.ipynb
+=======
+*app.py
+>>>>>>> 3c67881354e2f9c049d1322fbe40736eac370cb5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

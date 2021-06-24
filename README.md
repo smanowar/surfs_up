@@ -49,5 +49,5 @@ Because weather can vary dramatically it is very likley that our results contain
 
 Additional queries that should be performed to see the likleyhood of the success of the surf shop are:
 
-- precipitation levels in Oahu as this will affect tourist levels
-- wind levels in Oahu as this will affect the surfing conditions
+- **precipitation levels in Oahu**, as this will affect the volume of tourists coming to the beach
+- **wind levels in Oahu**, as this will affect the surfing conditions
